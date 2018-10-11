@@ -1,0 +1,10 @@
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
